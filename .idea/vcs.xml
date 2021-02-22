@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloToast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloToastChallenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloToastLab2_LinearLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloToastLab2_RelativeLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+  </component>
+</project>
